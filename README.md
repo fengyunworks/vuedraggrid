@@ -1,7 +1,20 @@
-# Vue 3 + Vite
+# VITE+VUE2+可拖拽部件布局
 
-This template should help get you started developing with Vue 3 in Vite. The template uses Vue 3 `<script setup>` SFCs, check out the [script setup docs](https://v3.vuejs.org/api/sfc-script-setup.html#sfc-script-setup) to learn more.
+# 打赏  
+搬砖不易，欢迎打赏支持 
+![image]()
 
-## Recommended IDE Setup
+# 安装
+  npm install
+# 启动
+  npm run dev
+  
 
-- [VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=johnsoncodehk.volar)
+# 截图
+ ![image](https://github.com/fengyunworks/vuedraggrid/blob/main/%E6%88%AA%E5%9B%BE1.png)
+
+# 联系我
+  可提供前后端一体化代码，定制化开发
+   121290895@qq.com
+
+
