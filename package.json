@@ -1,0 +1,25 @@
+{
+  "name": "vuedraggrid",
+  "private": true,
+  "version": "0.0.0",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "element-plus": "^2.2.34",
+    "element-ui": "^2.15.13",
+    "vue": "^2.7.14",
+    "vue-grid-layout": "^2.4.0",
+    "vue-template-compiler": "^2.7.14"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-vue": "^2.2.0",
+    "node-sass": "^4.14.1",
+    "sass": "^1.58.3",
+    "sass-loader": "^8.0.2",
+    "vite": "^2.8.0",
+    "vite-plugin-vue2": "^1.9.3"
+  }
+}
